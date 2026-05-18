@@ -1,19 +1,19 @@
 {
   "version": "0.2.0",
   "notes": "Release v0.2.0",
-  "pub_date": "2026-05-18T22:41:51Z",
+  "pub_date": "2026-05-18T23:01:35Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVVBWTG53VlNMVUQvL1N1UjlsdDRISmdhTGZ1d08yVjVNQUM0ZXVwb2J2MTBqdFNwNnZWNVByNFBZZDZVSkwzdThhR0huQisxemNzcjdnaUJTb3dDOHcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQzNjI1CWZpbGU6Tmlta2F0Qm9hcmQuYXBwLnRhci5negp2eXAvUkFVc0tIS3hJQk9TZkMrUUNDdU5JVFNiSDJnN1RWSmNBc0NDU0ppMnJLbVdWQWVEend1ZFZMN0tnMms0M3BIZXJhQlJmc2h4YmdKdWQ5WkVBZz09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVUdjNVBYZHErZ2Y0RzBDRXB5dE9UR2xhc3dVU0FObWhMRDZFSjF5ODZnTzZuVHoyeEVjU0FuRVlsNUh3RnNHZEprU3JhMmozdkliNzdwbms0TFh4Y2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ0NzQ1CWZpbGU6Tmlta2F0Qm9hcmQuYXBwLnRhci5negprTDg1V2tTWDVuVkVSODZ2b3pabFBVNEZzVjZweFU2blJDdTB3L3VuQ0VpcmRSVFlIaUFLTjJqU0M3NXRFV3JjemRaYzkyRjFIdGREMU5obU4ySnVEZz09Cg==",
       "url": "https://github.com/doroudchi/nimkat-releases/releases/download/v0.2.0/NimkatBoard_0.2.0_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVU1xUjUva3Vjc0dSTHNWeVlpSDNtSENZNlpETEFkaDRML2dscWxLck5zdEtGc0JQRThnOG5UZW5FeVZIT1JEYS9pVXVmZkF6VkNkTmViMjI4Rm8vdFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQzNjU0CWZpbGU6Tmlta2F0Qm9hcmQuYXBwLnRhci5negozT09LL2d5ZFkzSWg5Q2xkaVh6cEh2YWF0dHhIZUhzVVBHL3UyUzErUytEYVk3RmY5a3RJWHViazhzS0lxaUFnNnEzUnR5QTVpRVRIU1B5elFPemdEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVUs1Y3BjTnlpcmVmWnpyUTZiUEE0bXpvbC9lb05GQ1Q5bFplUEpSYnhHblFrdW5FdmViU0pNYkIxZHZMUGVEVG1YK2thQjgzN0VSbXBmenIzNVdQUndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ0ODcwCWZpbGU6Tmlta2F0Qm9hcmQuYXBwLnRhci5nego2NGJGS3hLZCtQbENiUmxha1pIR0crTUd6cmhhcHR2SFk4MnhOSHlyc01kWXd2M3hUOUtpd0JTcCtMaldwTG9oVVFweXltV0xwSnNsMGcwYUp3TFZBdz09Cg==",
       "url": "https://github.com/doroudchi/nimkat-releases/releases/download/v0.2.0/NimkatBoard_0.2.0_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVUtoVDFtSlF1cXhiUUQ3dnZYaWtRUmlPL3NPdXIvMkNQWnpicm05UE50bElJeVRaT0VWNzJsQytzUnFnbVludHdZMWoyU0ZHQThSNGpRbXNFbklLOFF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ0MDU1CWZpbGU6Tmlta2F0Qm9hcmRfMC4xLjBfeDY0LXNldHVwLm5zaXMuemlwClhvVlF1V1h0RXl1WEt1MkRCWG82QjR5RzVBa1FwdmNZN2lEditMbTB1a1VEWjFsRk1lQlRoSGJMTjlpZWdhVHVYeXpOVmwvTVJSdk9QamxFaU1QL0FnPT0K",
-      "url": "https://github.com/doroudchi/nimkat-releases/releases/download/v0.2.0/NimkatBoard_0.1.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVEtpTnJ3T0ZsVUZkakMyZXY4V3pyVTBNTSt4clRnZ2RTQzY2cWlrcXVPdWprK0lGc0hlOExvejB4MFhXdlI0bmwwZnM0UHlrQVk0ZGtVQlpHT0xIcWtFNWRKdS9KSlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTQ1Mjc2CWZpbGU6Tmlta2F0Qm9hcmRfMC4yLjBfeDY0LXNldHVwLm5zaXMuemlwClF0RGZvMDR0dE1wQmVnVGNQNE51bloyaExXcWJmNzVXQWs1QXlSN3ZlaGpka1N1b3Z3WUd2NXc3ZkxxVmJUR1F5clEyVkFoYlhjOEd1UkhDWXB6bkNRPT0K",
+      "url": "https://github.com/doroudchi/nimkat-releases/releases/download/v0.2.0/NimkatBoard_0.2.0_x64-setup.nsis.zip"
     }
   }
 }
